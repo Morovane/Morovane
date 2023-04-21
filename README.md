@@ -1,4 +1,4 @@
-![4897896 1](https://user-images.githubusercontent.com/44686783/233573397-1ba9b7fd-6054-436b-917a-0e903301da55.jpg)
+![4897896](https://user-images.githubusercontent.com/44686783/233573852-97fdf7ed-ad14-4935-a94f-960e45b42135.jpg)
 <h1 align = "center"> Hi there 👋, This is El Filali Marouane </h1> 
 <h3 align = "center"> Software Engineer Student at ALX SE Programme </h3>
 <!--
