@@ -1,5 +1,3 @@
-[creative-gradient-code-logo.zip](https://github.com/Morovane/Morovane/files/11293395/creative-gradient-code-logo.zip)
-
 <h1 align = "center"> Hi there 👋, This is El Filali Marouane </h1> 
 <h3 align = "center"> Software Engineer Student at ALX SE Programme </h3>
 <!--
