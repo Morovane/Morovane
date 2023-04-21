@@ -1,5 +1,5 @@
 :[logo]
-(https://images.app.goo.gl/nxAtrWmNMM9j62Kd7)
+(https://tenor.com/view/engineers-day-engineering-engineering-student-engineer-programming-language-gif-18542083)
 <h1 align = "center"> Hi there 👋, This is El Filali Marouane </h1> 
 <h3 align = "center"> Software Engineer Student at ALX SE Programme </h3>
 <!--
